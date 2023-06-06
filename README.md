@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tina-muriu
-- 👀 I’m interested in java programming
+- 👀 I’m interested in java & Python
 - 🌱 I’m currently learning It
 - 💞️ I’m looking to collaborate on java  projects
 - 📫 How to reach me  tinamuriuh@gmail.com
